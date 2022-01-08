@@ -7,7 +7,7 @@
     * Constructs a pathway between a start and goal using the GVD
 * Bug Algorithm
     * Implements the Bug 2 algorithm
-* Filters
+* Filter Algorithms
     * Implements the Kalman Filter on a robot traveling along a line
     * Implements the Extended Kalman Filter and Particle Filter on a robot traveling in a circle while using landmarks for localization
 * Learned Inverse Kinematics
