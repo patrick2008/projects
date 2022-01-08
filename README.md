@@ -8,6 +8,7 @@
 * Bug Algorithm
     * Implements the Bug 2 algorithm
 * DIRT vs. RRT
+    * Done in collaboration with Liang Hu, Tian Xie, and Weiran Wang
     * Implements the Dominance Informed Region Tree (DIRT) and Rapidly-exploring Random Tree (RRT) algorithms for purposes of comparison
     * These algorithms were performed in a scenario where the robots had limited information of their environment
     * Original paper for DIRT: https://people.cs.rutgers.edu/~kb572/pubs/iros_dirt.pdf 
