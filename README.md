@@ -7,6 +7,10 @@
     * Constructs a pathway between a start and goal using the GVD
 * Bug Algorithm
     * Implements the Bug 2 algorithm
+* DIRT vs. RRT
+    * Implements the Dominance Informed Region Tree (DIRT) and Rapidly-exploring Random Tree (RRT) algorithms for purposes of comparison
+    * These algorithms were performed in a scenario where the robots had limited information of their environment
+    * Original paper for DIRT: https://people.cs.rutgers.edu/~kb572/pubs/iros_dirt.pdf 
 * Filter Algorithms
     * Implements the Kalman Filter on a robot traveling along a line
     * Implements the Extended Kalman Filter and Particle Filter on a robot traveling in a circle while using landmarks for localization
