@@ -28,10 +28,14 @@
 * Naive Bayes Classifier
     * Done in collaboration with Ethan Chang
     * Implements Naive Bayes from scratch to identify Arabian numerals
+* Perceptron Exploration
+    * Implents Perceptron and explores hyperparameter tuning
 * Q Learning
     * Implements Q learning to solved for the optimal policy when playing Blackjack
 * RRT Algorithms
     * Implements the Rapidly-exploring Random Tree algorithm (RRT) along with a greedy version
     * Done for a RR arm which has a Non-Euclidean configuration space
+* Viterbi and Forward-Backward Algorithms
+    * Implemented the Viterbi Algorithm and the Forward-Backward Algorithm to conduct Part-Of-Speech tagging
 * Word Ladder Search
     * Implements Breadth First Search, Depth First Search, Uniform Cost Search, and A* to solve Word Ladder puzzles
